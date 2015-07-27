@@ -1,6 +1,6 @@
 ######################################################################################
 ##################              Jayhawks - Read Me file             ##################
-####     This code provies:                                                       ####
+####     This file provides:                                                      ####
 ####        (1) INSTRUCTIONS to run our R code/prediction algorithm  #################
 ####        (2) descriptions of all the helper files used                         ####
 ######################################################################################
